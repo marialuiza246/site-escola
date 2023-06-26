@@ -6,8 +6,8 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .cabeçalho {
-    background-color: blue;
-    color:blue;
+    background-color: blue(21, 255, 0);
+    color:blue(0, 247, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,8 +27,8 @@ body{
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient( blue, blue);
-    color:blue;
+    background-image: linear-gradient( blue, rgb(255, 0, 191));
+    color:rgb(255, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
